@@ -1,0 +1,23 @@
+body{}
+.azul{
+    background-color: rgb(21, 221, 221);
+    text-align: center;
+    color: rgb(29, 115, 196);
+}
+div{
+margin-left: 100px;
+}
+div div{
+margin-left: 920px;
+margin-top: -300px; 
+}
+span.textoazul{
+    color: rgb(29, 96, 196);
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
